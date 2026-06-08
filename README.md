@@ -7,7 +7,7 @@ Hey there! I'm **Harshal Warukar**, a **DevOps & Cloud Engineer** with a strong 
 
 - Infrastructure as Code (IaC): Automating cloud deployments with Terraform & Ansible
 - Observability & Monitoring: Ensuring system reliability with Prometheus, Grafana & Dynatrace
-- Cloud Computing: Working with Google Cloud Platform (GCP) services
+- Cloud Computing: Working with AWS,GCP and Azure 
 - Kubernetes & Containerization: Managing containerized workloads efficiently
 - CI/CD Pipelines: Automating software delivery with Jenkins, GitHub Actions & Azure DevOps
 
